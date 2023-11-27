@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841986960951",
+    "firebase_url": "https://feeder-dde1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "feeder-dde1d",
+    "storage_bucket": "feeder-dde1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841986960951:android:b0d1e77981f7b2594fd9b2",
+        "android_client_info": {
+          "package_name": "com.example.maysa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841986960951-nbe4toec4753l7i1hg6msognorbhfsir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Q2DVfXzmMagmCuu6QNyDzE78ihy4sf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841986960951-nbe4toec4753l7i1hg6msognorbhfsir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
